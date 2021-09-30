@@ -1,0 +1,94 @@
+body {
+    background-color: rgb(158, 60, 125);
+}
+
+.signup {
+    margin-left: 300px;
+    width: 400px;
+    height: 500px;
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+
+hr {
+    width: 350px;
+}
+h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.btns {
+    text-align: center;
+}
+
+.pink {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: #fff;
+    background-color: rgb(158, 60, 125);
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+.white {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    color: #000;
+    background-color: #fff;
+    border: none;
+    cursor: pointer;
+    border: rgb(70, 69, 69) 0.5px solid;
+    border-radius: 8px;
+}
+
+.inputs {
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+    
+    
+    
+}
+
+.email {
+   height: 30px;
+   width: 200px;
+    color: rgb(14, 14, 13);
+}
+.pwd {
+    height: 30px;
+    width: 200px;
+     color: rgb(14, 14, 13);
+ 
+}
+.forget {
+    
+    text-decoration: none;
+    color: palevioletred;
+    margin-right: 20%;
+}
+.fp {
+    text-align: center;
+}
+#login {
+      text-align: center;
+
+}
+.log {
+    width: 200px;
+    height: 40px;
+    background-color: palevioletred;
+    cursor: pointer;
+}
+.sign {
+    text-align: center;
+    text-decoration: none;
+    color: palevioletred;
+}
+.a {
+    text-decoration: none;
+}
